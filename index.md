@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# REACT TYPESCRIPT IONIC WEB APPS
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/reacttypescriptapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Learn with source code build and make web app using react typescript and ionic
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Display web app
 
-### Markdown
+![react type script source code to learn make web app modern](https://a.fsdn.com/con/app/proj/reactwebapp/screenshots/free%20source%20code%20react%20typescript%20%281%29.png/max/max/1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Home page
 
-```markdown
-Syntax highlighted code block
+![react type script source code to learn make web app modern](https://a.fsdn.com/con/app/proj/reactwebapp/screenshots/free%20source%20code%20react%20typescript%20%284%29.png/max/max/1)
 
-# Header 1
-## Header 2
-### Header 3
+About page
 
-- Bulleted
-- List
+![react type script source code to learn make web app modern](https://a.fsdn.com/con/app/proj/reactwebapp/screenshots/free%20source%20code%20react%20typescript%20%283%29.png/max/max/1)
 
-1. Numbered
-2. List
+Other Pages
 
-**Bold** and _Italic_ and `Code` text
+![react type script source code to learn make web app modern](https://a.fsdn.com/con/app/proj/reactwebapp/screenshots/free%20source%20code%20react%20typescript%20%282%29.png/max/max/1)
 
-[Link](url) and ![Image](src)
-```
+Contact Page
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![react type script source code to learn make web app modern](https://a.fsdn.com/con/app/proj/reactwebapp/screenshots/react%20typesciprt%20source%20code%20learn%20%282%29.png/max/max/1)
 
-### Jekyll Themes
+Desktop Home page display
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/reacttypescriptapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![react type script source code to learn make web app modern](https://a.fsdn.com/con/app/proj/reactwebapp/screenshots/react%20typesciprt%20source%20code%20learn%20%281%29.png/max/max/1)
 
-### Support or Contact
+Other page desktop display
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+------------
+
+Need to install before run apps
++ NPM
++ react
++ ionic
+
+Documentation and online live source code :
+
+[https://www.hockeycomputindo.com/2021/01/how-to-create-make-website-ios-app.html](https://www.hockeycomputindo.com/2021/01/how-to-create-make-website-ios-app.html)
+
+See [Video Demo](https://youtu.be/JpeiAWNHTq0)
